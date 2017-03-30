@@ -10,7 +10,7 @@ var questionLock=false;
 var numberOfQuestions;
 var score=0;
 
-    $.getJSON('/Json/weather.json', function(data) {
+    $.getJSON('/json/weather.json', function(data) {
 
     for(i=0;i<data.quizlistHouse.length;i++){ 
       questionBank[i]=new Array;

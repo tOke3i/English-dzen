@@ -10,7 +10,7 @@ var questionLock=false;
 var numberOfQuestions;
 var score=0;
 
-    $.getJSON('/Json/animals.json', function(data) {
+    $.getJSON('/json/animals.json', function(data) {
 
     for(i=0;i<data.quizlist.length;i++){ 
       questionBank[i]=new Array;

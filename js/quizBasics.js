@@ -10,7 +10,7 @@ var questionLock=false;
 var numberOfQuestions;
 var score=0;
 
-    $.getJSON('/Json/basics.json', function(data) {
+    $.getJSON('/json/basics.json', function(data) {
 
     for(i=0;i<data.quizlistHouse.length;i++){ 
       questionBank[i]=new Array;
