@@ -150,9 +150,7 @@ logo();
 
 function timer(){
     ++start
-  $('.timeLive').html(start); 
-    console.log(start);
-    
+  $('.timeLive').html(start);
   }
 function clearTimer () {
   

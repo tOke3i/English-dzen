@@ -39,6 +39,7 @@ function displayQuestion(){
  // var rnd = randomInteger(1, 4)
  // console.log(rnd);
 
+
  var q1,  q2,  q3,  q4, question, rightAnswer;
  // Shaffle my aray for random output in html
  function shuffle(a) {
@@ -150,8 +151,7 @@ logo();
 
 function timer(){
     ++start
-  $('.timeLive').html(start); 
-    console.log(start);
+  $('.timeLive').html(start);
     
   }
 function clearTimer () {

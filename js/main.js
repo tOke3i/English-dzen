@@ -48,19 +48,10 @@ $(document).ready(function() {
   function ErrorHandler(jqXHR, StatusStr, ErrorStr) {
     alert(StatusStr + ' ' + ErrorStr);
   }
-
-
- 
-
   // *********** Animation of Speechbuble End***********
-
-
- 
   $('[data-toggle="tooltip"]').tooltip();
 
 window.onhashchange=SwitchToStateFromURLHash;
-
-
 function getContent(url, type){
 $.ajax({
   url: url,
@@ -89,8 +80,7 @@ function SuccessF(data, type) {
     startHash.startFunction();
     setTimeout(startHash.bubbleAnimBack, 6000);
     // Ajax request for Menu(Rubrics)
-  
-     
+
   });
   // ***********Ending Sart button(categories)***********
   $('#getName').keypress(function(event) {
@@ -99,12 +89,9 @@ function SuccessF(data, type) {
       location.hash='start';
       startHash.startFunction();
       setTimeout(startHash.bubbleAnimBack, 6000);
-      
-
     }
   });
- 
-   
+
   }
 
   var url = "",
