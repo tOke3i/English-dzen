@@ -1,0 +1,63 @@
+{"quizlistHouse":[
+  
+	{
+	
+	"option1":"img/home/armchair.jpg",
+	"option2":"img/home/balcony.jpg",
+	"option3":"img/home/door.jpg",
+	"option4":"img/home/carpet.jpg",
+	"question":"Which picture shows 'an armchair'?"
+	},
+	{
+	
+	"option1":"img/home/window.jpg",
+	"option2":"img/home/floor.jpg",
+	"option3":"img/home/table.jpg",
+	"option4":"img/home/chair.jpg",
+	"question":"Which picture shows 'a window'?"
+	},
+
+	{
+	
+	
+	"option1":"img/home/floor.jpg",
+	"option2":"img/home/table.jpg",
+	"option3":"img/home/window.jpg",
+	"option4":"img/home/house.jpg",
+	"question":"Which picture shows 'a floor'?"
+	},
+
+	{
+	
+	
+	"option1":"img/home/laptop.jpg",
+	"option2":"img/home/balcony.jpg",
+	"option3":"img/home/window.jpg",
+	"option4":"img/home/floor.jpg",
+	"question":"Which picture shows 'a laptop'?"
+	},
+
+	{
+	
+	
+	"option1":"img/home/carpet.jpg",
+	"option2":"img/home/house.jpg",
+	"option3":"img/home/chair.jpg",
+	"option4":"img/home/floor.jpg",
+	"question":"Which picture shows 'a carpet'?"
+	},
+
+	{
+	
+	"option1":"img/home/chair.jpg",
+	"option2":"img/home/balcony.jpg",
+	"option3":"img/home/door.jpg",
+	"option4":"img/home/floor.jpg",
+	"question":"Which picture shows 'a chair'?"
+	}
+
+
+	
+	
+]
+}

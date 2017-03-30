@@ -1,0 +1,44 @@
+{"quizlistHouse":[
+  
+	{
+	
+	"option1":"img/basics/black.jpg",
+	"option2":"img/basics/brown.jpg",
+	"option3":"img/basics/green.jpg",
+	"option4":"img/basics/red.jpg",
+	"question":" Which picture shows  'black' color ?"
+	},
+	{
+	
+	"option1":"img/basics/red.jpg",
+	"option2":"img/basics/blue.jpg",
+	"option3":"img/basics/white.jpg",
+	"option4":"img/basics/black.jpg",
+	"question":"Which picture shows  'red' color?"
+	},
+
+	{
+	
+	
+	"option1":"img/basics/she.jpg",
+	"option2":"img/basics/he.jpg",
+	"option3":"img/basics/red.jpg",
+	"option4":"img/basics/baby.jpg",
+	"question":"Which picture shows 'she'?"
+	},
+
+	{
+	
+	
+	"option1":"img/basics/baby.jpg",
+	"option2":"img/basics/boy.jpg",
+	"option3":"img/basics/she.jpg",
+	"option4":"img/basics/he.jpg",
+	"question":" Which picture shows 'a baby'?"
+	}
+
+
+	
+	
+]
+}

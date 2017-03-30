@@ -1,0 +1,62 @@
+{"quizlist":[
+  
+	{
+	
+	"option1":"img/animals/lion.jpg",
+	"option2":"img/animals/duck.jpg",
+	"option3":"img/animals/fish.jpg",
+	"option4":"img/animals/cat_.jpg",
+	"question":"Which picture shows 'a lion'?"
+	},
+	{
+	
+	"option1":"img/animals/dog.jpg",
+	"option2":"img/animals/bird.jpg",
+	"option3":"img/animals/giraffe.jpg",
+	"option4":"img/animals/bear.jpg",
+	"question":"Which picture shows 'a dog'?"
+	},
+	
+	{
+	
+	"option1":"img/animals/cat_.jpg",
+	"option2":"img/animals/fish.jpg",
+	"option3":"img/animals/panda.jpg",
+	"option4":"img/animals/duck.jpg",
+	"question":"Which picture shows 'a cat'?"
+	},
+	{
+	
+	"option1":"img/animals/caterpillar_.jpg",
+	"option2":"img/animals/duck.jpg",
+	"option3":"img/animals/ostrich.jpg",
+	"option4":"img/animals/bear.jpg",
+	"question":"Which picture shows 'a caterpillar'?"
+	},
+	{
+	
+	"option1":"img/animals/fish.jpg",
+	"option2":"img/animals/ostrich.jpg",
+	"option3":"img/animals/panda.jpg",
+	"option4":"img/animals/sparrow.jpg",
+	"question":"Which picture shows 'fish'?"
+	},
+	{
+	
+	"option1":"img/animals/panda.jpg",
+	"option2":"img/animals/cat_.jpg",
+	"option3":"img/animals/dolphin.jpg",
+	"option4":"img/animals/bear.jpg",
+	"question":"Which picture shows 'a panda'?"
+	},
+	{
+	
+	"option1":"img/animals/dolphin.jpg",
+	"option2":"img/animals/worm.jpg",
+	"option3":"img/animals/lion.jpg",
+	"option4":"img/animals/bear.jpg",
+	"question":"Which picture shows 'a dolphin'?"
+	}
+
+]
+}

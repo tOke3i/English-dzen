@@ -1,0 +1,35 @@
+{"quizlistHouse":[
+  
+	{
+	
+	"option1":"img/weather/rain.jpg",
+	"option2":"img/weather/fog.jpg",
+	"option3":"img/weather/lightning.jpg",
+	"option4":"img/weather/temperature.jpg",
+	"question":"Which picture shows a 'rain'"
+	},
+	{
+	
+	"option1":"img/weather/fog.jpg",
+	"option2":"img/weather/sky.jpg",
+	"option3":"img/weather/temperature.jpg",
+	"option4":"img/weather/wind.jpg",
+	"question":"Which picture shows  'fog'?"
+	},
+
+	{
+	
+	
+	"option1":"img/weather/wind.jpg",
+	"option2":"img/weather/sky.jpg",
+	"option3":"img/weather/cloudy.jpg",
+	"option4":"img/weather/rain.jpg",
+	"question":" Which picture shows  'wind'"
+	}
+
+	
+
+	
+	
+]
+}
